@@ -6,3 +6,4 @@ Hello, and welcome to my many links:
 [Other games](https://pixelsuft.github.io/)
 [Slope](https://slope-game.github.io)
 [66ez](https://sites.google.com/site/unblockedgames66ez)
+[More games](https://lioxryt.vercel.app/html/games)
