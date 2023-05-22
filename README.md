@@ -1,5 +1,5 @@
 # Welcome!
-<a href='https://www.free-counters.org/'>free-counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=416dcfd200d4d523464b5876e6093219a4fef4bc'></script>
+<a href='https://www.free-counters.org/'>free-counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=416dcfd200d4d523464b5876e6093219a4fef4bc'>Yes</script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1032920/t/11"></script>
 Hello, and welcome to my many links:
 # Movies!
