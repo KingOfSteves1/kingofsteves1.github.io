@@ -7,4 +7,4 @@ Hello, and welcome to my many links:
 
 [Slope games](https://slope-game.github.io)
 
-[More games](kingofsteves1.github.io/lioxryt/)
+[More games](https://lioxryt.vercel.app/)
