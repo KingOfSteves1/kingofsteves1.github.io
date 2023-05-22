@@ -5,6 +5,6 @@ Hello, and welcome to my many links:
 # Games!
 [Game Site](https://kingofsteves1.github.io/ban/)
 
-[Slope games](https://slope-game.github.io)
+[Slope games](https://kingofsteves1.github.io/slope/)
 
 [More games](https://lioxryt.vercel.app/)
